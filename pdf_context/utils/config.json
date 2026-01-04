@@ -1,0 +1,7 @@
+{
+    "base_model": "gpt-oss:20b", 
+    "embedding_model": "llama3",
+    "local_url": "http://localhost:11434",
+    "chunk_size": 1000,
+    "chunk_overlap": 100
+}
